@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Alvaro 👋
 
 <!--
 **alvaroiporre/alvaroiporre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working and learning on Front-End Projects into the Microverse Program.
