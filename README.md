@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working and learning on Front-End Projects into the Microverse Program.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroiporre&show_icons=true&theme=onedark)](https://github.com/alvaroiporre/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroiporre&layout=compact)](https://github.com/alvaroiporre/github-readme-stats)
