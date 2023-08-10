@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working and learning on Full-Stack Projects in the Microverse Program.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroiporre&show_icons=true&theme=default)](https://github.com/alvaroiporre/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroiporre&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=alvaroiporre&show_icons=true&theme=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroiporre&layout=donut&langs_count=8&hide=CMake)](https://github.com/alvaroiporre/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroiporre&layout=donut&langs_count=8&hide=CMake)](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroiporre&layout=donut&langs_count=8&hide=CMake)
