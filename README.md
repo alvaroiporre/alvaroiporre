@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working and learning on Full-Stack Projects in the Microverse Program.
+- 🔭 I’m currently working and learning on Full-Stack Projects in Microverse Program.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroiporre&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=alvaroiporre&show_icons=true&theme=default)
 
