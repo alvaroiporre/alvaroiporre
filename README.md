@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working and learning on Full-Stack Projects in Microverse Program. 
-
+<div align="center">
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroiporre&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=alvaroiporre&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroiporre&layout=donut&langs_count=8&hide=CMake)](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroiporre&layout=donut&langs_count=8&hide=CMake)
 <h2>Technologies</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,express,cpp,html,css,sass,tailwind,nextjs,react,redux,py,django,ruby,rails,dart,flutter,swift,MongoDB,postgres,jest,git,github,postman,ps&perline=8)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,express,cpp,html,css,sass,tailwind,nextjs,react,redux,py,django,ruby,rails,dart,flutter,swift,mongodb,postgres,jest,git,github,postman,ps&perline=8)](https://skillicons.dev)
+</div>
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=alvaroiporre&style=plastic&color=593461"/>
