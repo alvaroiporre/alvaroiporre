@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=VelzckC0D3&style=plastic&color=593461"/>
+      <img src="https://komarev.com/ghpvc/?username=alvaroiporre&style=plastic&color=593461"/>
         <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=plastice&query=%24.stars&color=593461&url=https://api.github-star-counter.workers.dev/user/alvaroiporre"/>
   
 </div>
