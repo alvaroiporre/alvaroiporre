@@ -1,10 +1,5 @@
 ### Hi there, I'm Alvaro 👋
 
-<!--
-**alvaroiporre/alvaroiporre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-
 I'm thrilled to have you here. My name is Alvaro Iporre, and I'm passionate about creating amazing software solutions. With proficiency in JavaScript, React, Python, and Django, I'm always excited to dive into new challenges and bring innovative ideas to life.
 
 🧠 **Exploring Logic and Challenges:**
