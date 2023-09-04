@@ -27,7 +27,6 @@ Thanks for dropping by. Explore my projects, ask questions, and let's explore th
 
 Happy coding and problem-solving! 😄👨‍💻🧩
 <div align="center">
-      
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alvaroiporre)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroiporre&layout=donut&langs_count=8&hide=CMake)](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroiporre&layout=donut&langs_count=8&hide=CMake)
@@ -39,6 +38,5 @@ Happy coding and problem-solving! 😄👨‍💻🧩
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=alvaroiporre&style=plastic&color=593461"/>
-        <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=plastice&query=%24.stars&color=593461&url=https://api.github-star-counter.workers.dev/user/alvaroiporre"/>
-  
+      <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=plastice&query=%24.stars&color=593461&url=https://api.github-star-counter.workers.dev/user/alvaroiporre"/>
 </div>
