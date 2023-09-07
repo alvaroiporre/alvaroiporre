@@ -1,4 +1,4 @@
-### Hi there, I'm Alvaro 👋
+### Hi, I'm Alvaro 👋
 
 I'm thrilled to have you here. My name is Alvaro Iporre, and I'm passionate about creating amazing software solutions. With proficiency in JavaScript, React, Python, and Django, I'm always excited to dive into new challenges and bring innovative ideas to life.
 
@@ -34,7 +34,7 @@ Happy coding and problem-solving! 😄👨‍💻🧩
 <h2>Technologies</h2>
 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,express,cpp,html,css,sass,tailwind,nextjs,react,redux,py,django,ruby,rails,dart,flutter,swift,java,mongodb,postgres,mysql,jest,git,github,postman,ps&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,express,cpp,html,css,sass,tailwind,nextjs,react,redux,py,django,ruby,rails,dart,flutter,java,mongodb,postgres,mysql,jest,git,github,ps&perline=10)](https://skillicons.dev)
 </div>
 
 <div align="center">
