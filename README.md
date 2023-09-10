@@ -16,6 +16,7 @@ I'm also the proud founder of Tech Talent Potosi, a vibrant community where know
 
 <!--🔭 **What I'm Working On:**
 I'm currently [mention a project or goal you're focusing on], where I'm [briefly describe your role or what you're accomplishing]. Amidst everything, I always make time for coding challenges to keep my skills sharp.
+
 -->
 🌱 **What I'm Learning:**
 I believe in the value of learning, and right now, I'm diving deeper into Nodejs Express. Learning is a journey, and I'm excited to share my progress with you.
