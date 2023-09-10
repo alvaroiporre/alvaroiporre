@@ -29,7 +29,7 @@ Thanks for dropping by. Explore my projects, ask questions, and let's explore th
 Happy coding and problem-solving! 😄👨‍💻🧩
 <div align="center">
       
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alvaroiporre)](https://git.io/streak-stats)
+![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroiporre&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroiporre&layout=donut&langs_count=8&hide=CMake)](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroiporre&layout=donut&langs_count=8&hide=CMake)
 <h2>Technologies</h2>
