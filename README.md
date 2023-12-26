@@ -1,6 +1,6 @@
 ### Hi, I'm Alvaro 👋
 
-I'm thrilled to have you here. My name is Alvaro Iporre, and I'm passionate about creating amazing software solutions. With proficiency in JavaScript, React, Python, and Django, I'm always excited to dive into new challenges and bring innovative ideas to life.
+I'm thrilled to have you here. My name is Alvaro Iporre, and I'm passionate about creating amazing software solutions. With proficiency in C++, TypeScript, React, Python, Java, and Spring Boot, I'm always excited to dive into new challenges and bring innovative ideas to life.
 
 🧠 **Exploring Logic and Challenges:**
 When I'm not building applications, you can find me immersed in the world of Data Structures, Algorithms, and mathematical puzzles. I love tackling complex problems and finding elegant solutions that push the boundaries of what's possible.
