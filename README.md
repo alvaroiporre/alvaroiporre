@@ -9,8 +9,8 @@ When I'm not building applications, you can find me immersed in the world of Dat
 I'm also the proud founder of Tech Talent Potosi, a vibrant community where knowledge-sharing and collaboration thrive. Together, we embark on exciting projects that showcase the power of teamwork in the tech world.
 
 🚀 **What I Love:**
-- Crafting interactive web applications using the power of JavaScript and React.
-- Building robust and scalable backends with Python and Django.
+- Crafting interactive web applications using the power of TypeScript and React.
+- Building robust and scalable backends with Java and Spring Boot.
 - Solving intricate Data Structures and Algorithms challenges that sharpen my problem-solving skills.
 - Exploring fascinating math problems that keep my logical thinking on its toes.
 
@@ -19,7 +19,7 @@ I'm currently [mention a project or goal you're focusing on], where I'm [briefly
 
 -->
 🌱 **What I'm Learning:**
-I believe in the value of learning, and right now, I'm diving deeper into Nodejs Express. Learning is a journey, and I'm excited to share my progress with you.
+I believe in the value of learning, and right now, I'm diving deeper into Nodejs Express and Spring Boot. Learning is a journey, and I'm excited to share my progress with you.
 <!--
 📫 **Let's Connect:**
 Whether you're interested in collaborating, discussing algorithms, sharing insights, or just having a friendly conversation about technology, I'd love to connect! Feel free to reach out to me here or connect with me on [mention any social media or professional platforms].
