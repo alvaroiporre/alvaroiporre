@@ -10,7 +10,7 @@ I'm also the proud founder of Tech Talent Potosi, a vibrant community where know
 
 🚀 **What I Love:**
 - Crafting interactive web applications using the power of TypeScript and React.
-- Building robust and scalable backends with Java and Spring Boot.
+- Building robust and scalable backends with TypeScript, Express, Java and Spring Boot.
 - Solving intricate Data Structures and Algorithms challenges that sharpen my problem-solving skills.
 - Exploring fascinating math problems that keep my logical thinking on its toes.
 
