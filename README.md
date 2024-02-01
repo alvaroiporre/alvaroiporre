@@ -9,7 +9,7 @@ When I'm not building applications, you can find me immersed in the world of Dat
 I'm also the proud founder of Tech Talent Potosi, a vibrant community where knowledge-sharing and collaboration thrive. Together, we embark on exciting projects that showcase the power of teamwork in the tech world.
 
 🚀 **What I Love:**
-- Crafting interactive web applications using the power of TypeScript and React.
+- Crafting interactive web applications using the power of TypeScript, React and Next.
 - Building robust and scalable backends with TypeScript, Express, Java and Spring Boot.
 - Solving intricate Data Structures and Algorithms challenges that sharpen my problem-solving skills.
 - Exploring fascinating math problems that keep my logical thinking on its toes.
