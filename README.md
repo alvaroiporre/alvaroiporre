@@ -35,7 +35,7 @@ Happy coding and problem-solving! 😄👨‍💻🧩
 <h2>Technologies</h2>
 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,cpp,html,css,sass,tailwind,nextjs,react,redux,py,django,PHP,laravel,dart,flutter,java,spring,kafka,rabbitmq,aws,mongodb,postgres,mysql,jest,git,github,ps&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,cpp,html,css,sass,tailwind,nextjs,react,redux,py,django,php,laravel,dart,flutter,java,spring,kafka,rabbitmq,aws,mongodb,postgres,mysql,jest,git,github,ps&perline=10)](https://skillicons.dev)
 </div>
 
 <div align="center">
